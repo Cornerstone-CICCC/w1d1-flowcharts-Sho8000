@@ -3,4 +3,4 @@ var LCM;
 
 LCM = LFT*30.48;
 
-console.log("LCM:",LCM);
+console.log(`${LFT} feet is ${LCM} cm`);

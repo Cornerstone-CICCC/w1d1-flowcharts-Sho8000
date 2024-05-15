@@ -1,0 +1,5 @@
+Start
+Input W,L
+A = W * L
+Print A
+End

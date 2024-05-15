@@ -1,0 +1,10 @@
+Start
+Input a
+Input b
+if a = b, Input b again
+Input c
+if a = c, Input c again
+if b = c, Input c again
+End
+
+ 

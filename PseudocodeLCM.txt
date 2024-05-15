@@ -1,0 +1,6 @@
+Start
+Input LFT
+LCM <- LFT * 30.48
+Output LCM
+End
+

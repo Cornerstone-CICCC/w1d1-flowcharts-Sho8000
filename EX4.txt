@@ -1,0 +1,11 @@
+Start
+Input a, b, c
+if a<b+c 
+Yes continue, No output impossible
+if b<c+a
+Yes continue, No output impossible
+if c<a+b
+Yes continue, No output impossible
+all yes, output possible
+End
+

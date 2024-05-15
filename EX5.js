@@ -13,3 +13,10 @@ else if(score>=40){
 else{
   console.log(studentname + " => No Grade");
 }
+
+/* we can use array for judgement value
+
+var grade = [80, 60, 40]
+ ->grade[0],[1],[2]
+
+*/
